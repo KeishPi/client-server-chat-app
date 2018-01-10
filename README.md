@@ -9,14 +9,12 @@ To run chatserve.py:
 To run chatclient.c:
 	Go to the directory containing the source files
 
-	Compile- Enter the following on the command line:
+	To compile enter the following on the command line:
 	make
 
-	Run- Enter the following on the command line:
+	To run enter the following on the command line:
 	./chatclient localhost <port#>
-	OR
-	./chatclient <flipX> <port#>
-	(flipX must be the same flipX that chatserve.py is running on)
+
 
 Instructions:
 	Each program will have you enter a handle. The handle can be up to 10 characters
